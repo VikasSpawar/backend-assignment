@@ -68,7 +68,7 @@ npm run dev
 **App**: http://localhost:5173
 
 ## 📁 **Project Structure**
-
+```
 backend-assignment/
 ├── backend/          # Node.js + Express API
 │   ├── src/
@@ -84,7 +84,7 @@ backend-assignment/
 │   │   └── services/
 │   └── tailwind.config.js
 └── README.md
-
+```
 
 ## 🔐 **API Endpoints**
 
