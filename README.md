@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🚀 Fullstack Task Manager Assessment
 
 **Modern fullstack task management application** built with **React + Node.js + JWT Authentication**.
@@ -10,7 +10,7 @@
 
 ## ✨ **Features**
 
-```
+
 ✅ Full CRUD Operations (Create, Read, Update, Delete)
 ✅ JWT Authentication (Register/Login/Protected Routes)
 ✅ Dark Minimalist UI (Tailwind CSS)
@@ -20,7 +20,7 @@
 ✅ MongoDB + Mongoose
 ✅ Production-ready Error Handling
 ✅ Glass Morphism Effects
-```
+
 
 ## 🏗️ **Tech Stack**
 
@@ -68,7 +68,7 @@ npm run dev
 **App**: http://localhost:5173
 
 ## 📁 **Project Structure**
-```
+
 backend-assignment/
 ├── backend/          # Node.js + Express API
 │   ├── src/
@@ -84,7 +84,7 @@ backend-assignment/
 │   │   └── services/
 │   └── tailwind.config.js
 └── README.md
-```
+
 
 ## 🔐 **API Endpoints**
 
@@ -141,10 +141,10 @@ NODE_ENV=production
 - **Vite + Tailwind**: Fast dev + production ready
 
 ## 🔗 **Author**
-**Your Name** - Fullstack Developer  
-[LinkedIn](https://linkedin.com/in/vikaspawar03) | [Portfolio](https://vikaspawar.vercel.app) | [GitHub](https://github.com/vikasspawar)
+**Vikas Pawar** - Fullstack Developer  
+[LinkedIn](https://linkedin.com/in/vikas-pawar03) | [Portfolio](https://vikaspawar.vercel.app) | [GitHub](https://github.com/vikasspawar)
 
 ## 📄 **License**
 MIT License - Free to use & modify
-```
+
 
