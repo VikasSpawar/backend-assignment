@@ -4,9 +4,9 @@
 
 **Modern fullstack task management application** built with **React + Node.js + JWT Authentication**.
 
-[![Backend](https://img.shields.io/badge/Backend-Render-green)](https://your-backend.render.com)
-[![Frontend](https://img.shields.io/badge/Frontend-Vercel-blue)](https://your-frontend.vercel.app)
-[![API Docs](https://img.shields.io/badge/API%20Docs-Swagger-orange)](https://your-backend.render.com/api-docs)
+[![Backend](https://img.shields.io/badge/Backend-Render-green)](https://backend-assignment-production-9f01.up.railway.app)
+[![Frontend](https://img.shields.io/badge/Frontend-Vercel-blue)](https://backend-assignment-blush.vercel.app/)
+[![API Docs](https://img.shields.io/badge/API%20Docs-Swagger-orange)](https://backend-assignment-production-9f01.up.railway.app/api-docs)
 
 ## ✨ **Features**
 
@@ -31,9 +31,9 @@
 | React Hot Toast | JWT |  | Axios |
 
 ## 🚀 **Live Demo**
-- **Frontend**: https://your-frontend.vercel.app
-- **Backend API**: https://your-backend.render.com
-- **Swagger Docs**: https://your-backend.render.com/api-docs
+- **Frontend**: https://backend-assignment-blush.vercel.app
+- **Backend API**: https://backend-assignment-production-9f01.up.railway.app
+- **Swagger Docs**: https://backend-assignment-production-9f01.up.railway.app/api-docs
 
 ## 📱 **Screenshots**
 
@@ -142,7 +142,7 @@ NODE_ENV=production
 
 ## 🔗 **Author**
 **Your Name** - Fullstack Developer  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://linkedin.com/in/vikaspawar03) | [Portfolio](https://vikaspawar.vercel.app) | [GitHub](https://github.com/vikasspawar)
 
 ## 📄 **License**
 MIT License - Free to use & modify
